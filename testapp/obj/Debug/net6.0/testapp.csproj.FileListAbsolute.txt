@@ -1,0 +1,14 @@
+D:\PROJECTS\testAppForWork\testapp\testapp\bin\Debug\net6.0\testapp.exe
+D:\PROJECTS\testAppForWork\testapp\testapp\bin\Debug\net6.0\testapp.deps.json
+D:\PROJECTS\testAppForWork\testapp\testapp\bin\Debug\net6.0\testapp.runtimeconfig.json
+D:\PROJECTS\testAppForWork\testapp\testapp\bin\Debug\net6.0\testapp.dll
+D:\PROJECTS\testAppForWork\testapp\testapp\bin\Debug\net6.0\testapp.pdb
+D:\PROJECTS\testAppForWork\testapp\testapp\obj\Debug\net6.0\testapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\testAppForWork\testapp\testapp\obj\Debug\net6.0\testapp.AssemblyInfoInputs.cache
+D:\PROJECTS\testAppForWork\testapp\testapp\obj\Debug\net6.0\testapp.AssemblyInfo.cs
+D:\PROJECTS\testAppForWork\testapp\testapp\obj\Debug\net6.0\testapp.csproj.CoreCompileInputs.cache
+D:\PROJECTS\testAppForWork\testapp\testapp\obj\Debug\net6.0\testapp.dll
+D:\PROJECTS\testAppForWork\testapp\testapp\obj\Debug\net6.0\refint\testapp.dll
+D:\PROJECTS\testAppForWork\testapp\testapp\obj\Debug\net6.0\testapp.pdb
+D:\PROJECTS\testAppForWork\testapp\testapp\obj\Debug\net6.0\testapp.genruntimeconfig.cache
+D:\PROJECTS\testAppForWork\testapp\testapp\obj\Debug\net6.0\ref\testapp.dll
